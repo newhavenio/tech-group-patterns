@@ -1,0 +1,5 @@
+collections:
+  patterns:   # Important! This means there must be a _patterns folder.
+    output: true  # Important! Without this, jekyll won't make _site/patterns.
+    layout: pattern
+

@@ -1,4 +1,7 @@
-# Open with Social Time
+---
+layout: pattern
+title: Open with Social Time
+---
 
 ## The Problem
 

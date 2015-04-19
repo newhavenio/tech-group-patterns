@@ -1,4 +1,7 @@
-# Channel the Energy
+---
+layout: pattern
+title: Channel the Energy
+---
 
 Unless you're employed by your organization, chances are you have limited time and energy to run your group.
 
