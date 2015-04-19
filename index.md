@@ -12,21 +12,27 @@ layout: front
 
 Congratulations on starting a local tech community! And, on behalf of tech communities everywhere, thank you.
 
-Organizing a local tech community is tricky. Many organizers start with plenty of technical skill, a good chunk of introversion, and a vague desire to talk shop; if they're successful, and lucky, they find themselves on a journey that requires people and organizing skills, some extroversion, and clarity of purpose.
+**Organizing a local tech community is tricky.** Many organizers start with plenty of technical skill, a good chunk of introversion, and a vague desire to talk shop; if they're successful, and lucky, they find themselves on a journey that requires people and organizing skills, some extroversion, and clarity of purpose.
 
-This guide is a collection of patterns that can help. Like traditional design patterns, each pattern addresses a problem, in a context; a pattern that's universally-useful is rare. This is especially true, given that tech communities come in different sizes (<100 members, 100-1000 members, 1000-10000 members, >10000 members) and styles (niche, general), live in different communities (wealthy, poor, rural, urban, university towns, sparse, dense) with different kinds of resources (available space to meet, local sponsor companies in relevant industries, transit and parking options). Each pattern should note the problem it's trying to solve, the kind of group(s) it's applicable to.
+**This guide is a collection of patterns that can help.** Like traditional design patterns, each pattern addresses a problem, in a context; a pattern that's universally-useful is rare. This is especially true, given that tech communities come in different sizes (<100 members, 100-1000 members, 1000-10000 members, >10000 members) and styles (niche, general), live in different communities (wealthy, poor, rural, urban, university towns, sparse, dense) with different kinds of resources (available space to meet, local sponsor companies in relevant industries, transit and parking options). Each pattern should note the problem it's trying to solve, the kind of group(s) it's applicable to.
 
-At this time, some of these patterns might be more hypothetical than road-tested. Each pattern should have a few examples of where it's been used, and how it turned out; if a pattern doesn't have that, we'll note it - if you experiment with it, please write up your experience and [make a pull request](https://github.com/newhavenio/tech-group-patterns)! This pattern repository can act as a queue of experiments waiting to happen. (If everyone who tries a pattern has bad results, maybe we'll start an Anti-patterns section.) (TODO tag patterns as "Needs Evidence," or "Needs Case Study." "Needs Experience Report.")
+At this time, **some of these patterns might be more hypothetical than road-tested.** Each pattern should have a few examples of where it's been used, and how it turned out; if a pattern doesn't have that, we'll note it - if you experiment with it, please write up your experience and [make a pull request](https://github.com/newhavenio/tech-group-patterns)! This pattern repository can act as a queue of experiments waiting to happen. (If everyone who tries a pattern has bad results, maybe we'll start an Anti-patterns section.) (TODO tag patterns as "Needs Evidence," or "Needs Case Study." "Needs Experience Report.")
 
-Don't feel like you need to use every pattern here. They won't all apply to your group's situation, or its needs. And trying too many things at once can burn you out. But it's ok to get [inspired you to build](http://randsinrepose.com/archives/the-forums/) - in fact, it's great.
+**Don't feel like you need to use every pattern here.** They won't all apply to your group's situation, or its needs. And trying too many things at once can burn you out. But it's ok to get [inspired you to build](http://randsinrepose.com/archives/the-forums/) - in fact, it's great.
 
-The organization of this guide, and the patterns, is still in flux. As we collect patterns, we'll try to organize them in a sensible way.
+The organization of this guide, and the patterns, is **still in flux**. As we collect patterns, we'll try to organize them in a sensible way.
 
 # Current Status
 
-Everything about this guide should be considered in-flux - even the repo name. The eventual goal is to have an open github repo, with a gh-pages branch, so it serves as a website. All the content will be Creative Commons, or public domain, or something very open.
+Everything about this guide should be considered in-flux - even the repo name.
+
+But the repo was made, and the gh-pages branch configured and styled (mostly) correctly. [Post an issue](https://github.com/newhavenio/tech-group-patterns/issues), or better yet, a pull request, if you find something wrong.
+
+All the content will be Creative Commons, or public domain, or something very open.
 
 The patterns still need to be written up.
+
+Feel like helping out?
 
 # How You Can Help
 
