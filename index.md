@@ -39,7 +39,7 @@ Do you have experience with one of the patterns that needs an experience report?
 # The Patterns
 
 {% for pattern in site.patterns %}
- * [{{pattern.title}}]({{pattern.url}}) {% endfor %}
+ * [{{pattern.title}}]({{site.baseurl}}{{pattern.url}}) {% endfor %}
 
 
 * bring your kids

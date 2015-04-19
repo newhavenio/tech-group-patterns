@@ -1,3 +1,4 @@
+baseurl: /tech-group-patterns
 safe: true   # gh-pages forces this; match it for local development.
 lsi: false   # gh-pages forces this; match it for local development.
 collections:
