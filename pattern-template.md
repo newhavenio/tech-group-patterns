@@ -26,6 +26,10 @@ Here's where you explain the pattern: how it works, and how it addresses the pro
 
 Here's where you might explain some ways you've seen this pattern shake out. This section is optional.
 
+## Caution
+
+What could go wrong with this pattern?
+
 ## Example
 
 Up to three examples should suffice.
