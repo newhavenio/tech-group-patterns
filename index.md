@@ -55,7 +55,6 @@ Do you have experience with one of the patterns that needs an experience report?
 * charge for education
 * Rotate organizers
 * Ambassadors
-* Networking: colored stickers
 * Social: happy hour on a Tuesday night
 * Do-ocracy
   * don't be afraid to lead
