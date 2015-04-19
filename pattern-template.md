@@ -1,5 +1,5 @@
 ---
-layout: pattern   # Hi! You can delete this line, once you copy this file into _patterns.
+layout: pattern
 title: A Pattern Template
 ---
 
@@ -8,10 +8,9 @@ If you're going to write up a new pattern, here's a template to start from. It h
 How to use this template:
 
 1. Copy this file into the `_patterns` folder
-2. Delete line 2: `layout: pattern   # Hi! You can delete this line, once you copy this file into _patterns.`
-3. Change the `title` on line 3
-4. Write up the pattern
-5. `git add` your file, and make a pull request.
+2. Change the `title` on line 3
+3. Write up the pattern
+4. `git add` your file, and make a pull request.
 
 **Note: this template is still in flux. It needs to cover the context the pattern applies to, and the pattern's weaknesses. Suggestions welcome!**
 
