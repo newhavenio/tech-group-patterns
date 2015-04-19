@@ -1,4 +1,5 @@
 ---
+layout: pattern
 title: Channel the Energy
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: pattern
 title: Open with Social Time
 ---
 
