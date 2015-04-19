@@ -36,9 +36,9 @@ Feel like helping out?
 
 # How You Can Help
 
-Can you write up one of the pattern-stubs? Write it up, following the basic template (TODO define that and make an example), and [make a pull request](https://github.com/newhavenio/tech-group-patterns).
+Can you write up one of the pattern-stubs? Write it up, following [the basic template]({{site.baseurl}}/pattern-template.html), and [make a pull request](https://github.com/newhavenio/tech-group-patterns).
 
-Can you suggest a pattern? Write it up, following the basic template (TODO define that and make an example), and [make a pull request](https://github.com/newhavenio/tech-group-patterns).
+Can you suggest a pattern? Write it up, following [the basic template]({{site.baseurl}}/pattern-template.html), and [make a pull request](https://github.com/newhavenio/tech-group-patterns).
 
 Do you have experience with one of the patterns that needs an experience report? Write up your experience, and [make a pull request](https://github.com/newhavenio/tech-group-patterns).
 
