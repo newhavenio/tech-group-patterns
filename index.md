@@ -70,6 +70,11 @@ Do you have experience with one of the patterns that needs an experience report?
   * If you only have SO big a space
   * If you can't handle more than N people (food, etc)
   * "More attendees, more problems."
+* Pre-answer logistical questions
+  * Explain ahead parking
+  * Explain ahead how to find the location
+  * Explicitly tell people to bring laptops if it's required for the event
+  * Make sure the event description can answer who/what/where/when/why/how
 
 ## Possible Patterns
 
