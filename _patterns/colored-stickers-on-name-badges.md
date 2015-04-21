@@ -1,6 +1,8 @@
 ---
 layout: pattern
 title: Colored Stickers on Name Badges
+tags:
+- needs-example
 ---
 
 ## The Problem
