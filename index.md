@@ -50,7 +50,6 @@ Do you have experience with one of the patterns that needs an experience report?
 
 * bring your kids
   * safe for kids = safe for all (geekharvest.org)
-* charge a refundable attendance fee (product camp boston)
 * sponsor-to-vendor
 * charge for education
 * Rotate organizers
